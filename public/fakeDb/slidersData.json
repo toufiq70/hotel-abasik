@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "title:": "Best resort of the World",
+        "bg_img": "https://wallpaperaccess.com/full/7080711.jpg",
+        "visitBtn": "Visit"
+    },
+    {
+        "id": "2",
+        "title:": "Best resort of the World",
+        "bg_img": "https://c4.wallpaperflare.com/wallpaper/955/326/467/leisure-areas-restaurants-wallpaper-thumb.jpg",
+        "visitBtn": "Visit"
+    },
+    {
+        "id": "3",
+        "title:": "Best resort of the World",
+        "bg_img": "https://c4.wallpaperflare.com/wallpaper/295/606/441/bali-bungalow-cities-hotel-wallpaper-preview.jpg",
+        "visitBtn": "Visit"
+    },
+    {
+        "id": "4",
+        "title:": "Best resort of the World",
+        "bg_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzmfXrZSwi6TaDHITVZxiKBE62yvkcHcRNrw&usqp=CAU",
+        "visitBtn": "Visit"
+    }
+]

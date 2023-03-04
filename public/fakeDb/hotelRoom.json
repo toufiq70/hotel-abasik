@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "title": "Single Room",
+        "room_img": "https://3.imimg.com/data3/HL/MM/MY-10413033/single-bed-room-services-500x500.jpg",
+        "booking_price": {
+            "per_day": "$ 30",
+            "per_night": "$ 100",
+            "per_month": "$ 2458"
+        }
+    },
+    {
+        "id": "2",
+        "title": "Couple Room",
+        "room_img": "http://dimg04.c-ctrip.com/images/0AD52120008w2axelDC58.jpg",
+        "booking_price": {
+            "per_day": "$ 60",
+            "per_night": "$ 200",
+            "per_month": "$ 5000"
+        }
+    },
+    {
+        "id": "3",
+        "title": "Family Room",
+        "room_img": "https://www.landmarklondon.co.uk/wp-content/uploads/2018/01/Rooms-Suites-3-1.jpg",
+        "booking_price": {
+            "per_day": "$ 100",
+            "per_night": "$ 350",
+            "per_month": "$ 8990"
+        }
+    },
+    {
+        "id": "4",
+        "title": "Guest Room",
+        "room_img": "https://design.holidayinnexpress.com/assets/img/gallery/4-guest-room-alt-view.jpg",
+        "booking_price": {
+            "per_day": "$ 80",
+            "per_night": "$ 200",
+            "per_month": "$ 6849"
+        }
+    }
+]
